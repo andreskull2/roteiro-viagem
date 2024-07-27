@@ -38,7 +38,7 @@ Esse é um dos projetos do evento NLW Journey, um dos conteúdos disponíveis pa
 
 - [Acesse o projeto finalizado, online](https://andreskull2.github.io/roteiro-viagem/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Assistir aulas](https://www.rocketseat.com.br/formacao/fullstack)
 
 ## 🔖 Layout
 
